@@ -1,6 +1,6 @@
-<img align="right" width="200" src="https://avatars.githubusercontent.com/u/147974809?v=4" alt="Dushyant Sharma's Logo" />
 
-# Hi, I'm Dushyant Sharma! 👋
+
+# Hi, I'm Dushyant Sharma! 👋   <img align="right" width="200" src="https://i.pinimg.com/originals/16/21/3f/16213fe0d23aa40c1208ba1594acef50.gif" alt="Dushyant Sharma's Logo" />
 
 🎓 **Computer Engineering Student at Army Institute of Technology, Pune**  
 🌱 Passionate about learning, coding, and building cool tech projects.

@@ -1,4 +1,4 @@
-<img align="right" width="200" src="https://avatars.githubusercontent.com/u/143742846?v=4" alt="Dushyant Sharma's Logo" />
+<img align="right" width="200" src="[https://avatars.githubusercontent.com/u/143742846?v=4](https://avatars.githubusercontent.com/u/147974809?v=4)" alt="Dushyant Sharma's Logo" />
 
 # Hi, I'm Dushyant Sharma! 👋
 
@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dushyantsharma25&theme=tokyonight" alt="Dushyant's GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dushyantsharma25&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">

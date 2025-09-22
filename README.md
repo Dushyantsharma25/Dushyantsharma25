@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dushyantsharma25&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="[(https://github-readme-streak-stats.herokuapp.com?user=Dushyantsharma25&theme=tokyonight)](https://git.io/streak-stats)" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">

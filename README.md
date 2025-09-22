@@ -1,4 +1,4 @@
-<img align="right" width="200" src="" alt="Dushyant Sharma's Logo" />
+<img align="right" width="200" src="https://avatars.githubusercontent.com/u/147974809?v=4" alt="Dushyant Sharma's Logo" />
 
 # Hi, I'm Dushyant Sharma! 👋
 

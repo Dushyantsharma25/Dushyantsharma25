@@ -7,6 +7,10 @@
 
 ---
 
+**If you’re a friend, hit follow. If you want to be one, that’s cool too — follow away!**
+
+---
+
 ## 🛠️ Skills & Technologies
 
 - **Languages:** C++, Python, Java, JavaScript

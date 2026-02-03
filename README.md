@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dushyantsharma25&show_icons=true&theme=tokyonight" alt="Dushyant's GitHub stats" />
 </p>
 
-![GitHub Contributions](https://ghchart.rshah.org/Dushyantsharma25)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dushyantsharma25&theme=tokyo-night" alt="GitHub contribution graph" />
 
 ---
 

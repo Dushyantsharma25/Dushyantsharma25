@@ -49,17 +49,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dushyantsharma25&show_icons=true&theme=tokyonight" alt="Dushyant's GitHub stats" />
 </p>
 
-<img src="./contributions_months.svg" alt="Monthly contributions (last 12 months)" />
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dushyantsharma25&theme=tokyonight&margin-w=10&margin-h=10" alt="Dushyant's GitHub Trophies" />
-</p>
-
----
 
 ## 👁️ Visitors Count
 

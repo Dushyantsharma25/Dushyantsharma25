@@ -20,8 +20,9 @@
 
 ---
 
-## 🚀 Favorite Projects
+## 🚀 Favorite Repos
 
+- 🎮 [MyBlog](https://github.com/Dushyantsharma25/myblog) *(A Blogs posting website)*
 - 🎮 [Pygame Game](https://github.com/Dushyantsharma25/pygame-game) *(Fun project using Python and Pygame)*
 - 📚 [FDS (Fundamentals of Data Structures)](https://github.com/Dushyantsharma25/DSA_sem4-)
 - 🗃️ [dbms_assign](https://github.com/Dushyantsharma25/dbms_assign)
